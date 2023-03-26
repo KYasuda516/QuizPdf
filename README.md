@@ -1,6 +1,5 @@
 # QuizPdf
-Notionの記事を問題集のようにしたPDFです。
-
+Notionの記事を問題集のようにしたPDFの集まりです。
 
 # 免責事項
 このPDFに掲載されている情報について、必ずしも正確性が保障されるものではありません。  
@@ -8,7 +7,7 @@ Notionの記事を問題集のようにしたPDFです。
 また、それらの情報のご利用によって生じるいかなる損害についても、責任を負うものではありません。
 
 # 作成者
-kyasuda (@KYasuda516)
+Kanta Yasuda (@kyasuda516)
 
 # ライセンス
 This website content is released under the CC BY 4.0 License, see LICENSE.
