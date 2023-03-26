@@ -1,5 +1,7 @@
 # QuizPdf
-Notionの記事を問題集のようにしたPDFの集まりです。
+[Notion2QuizPdf](https://github.com/kyasuda516/notion2quiz-pdf)によって書き出されたPDFの集まりです。
+
+Notion2QuizPdfを用いると、Notion記事を問題集のようにし、結果的にこのリポジトリにあるようなPDFを作成します。
 
 # 免責事項
 このPDFに掲載されている情報について、必ずしも正確性が保障されるものではありません。  
